@@ -12,7 +12,7 @@ Template 1 - S3 Source Code Bucket
 ---
 
 
-## Upload GetItemDynamoDbLambda.zip to created S3 bucket
+#### Upload GetItemDynamoDbLambda.zip to created S3 bucket
 
 
 Template 2 - Lambda and DynamoDb:
