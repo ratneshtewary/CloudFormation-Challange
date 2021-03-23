@@ -5,9 +5,8 @@
 Please read all of these instructions carefully. Following these instructions is part of the test. If you don't follow the instructions it makes it harder for us to assess your work. These are the general instructions for all our interview assignments.
 
 
-## INTERVIEW QUESTIONS
-  Please complete the metioned scenario under.
-* [Scenario](scenario/scenario.md)
+## CHALLANGE QUESTION
+  Please complete the metioned scenario under scenario/scenario.md
 
 
 
