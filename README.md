@@ -6,10 +6,9 @@ Please read all of these instructions carefully. Following these instructions is
 
 
 ## INTERVIEW QUESTIONS
-  Please complete all 3 scenario's.
-* [Scenario 1](Scenario-1/scenario1.md)
-* [Scenario 2](Scenario-2/scenario2.md)
-* [Scenario 3](Scenario-3/scenario3.md)
+  Please complete the metioned scenario under.
+* [Scenario](Scenario/scenario.md)
+
 
 
 ## How to implement and submit your work

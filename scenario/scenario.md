@@ -1,4 +1,7 @@
-# Scenario 2:
+# Scenario:
+
+Create following cloudformation templates to deploy following resources 
+
 
 Template 1 - S3 Source Code Bucket
 
@@ -7,9 +10,14 @@ Template 1 - S3 Source Code Bucket
 `Definition of success:` Output the name of the s3 bucket in cloudformation.
 
 ---
+
+
+## Upload GetItemDynamoDbLambda.zip to created S3 bucket
+
+
 Template 2 - Lambda and DynamoDb:
 
-`Task:` Complete template 2 to create lambda and DynamoDb resouce and allow the lambda to access the DynamoDb.
+`Task:` create a cloudformation template to deploy lambda from S3 bucket and DynamoDb table resouce and allow the lambda to access the DynamoDb.
 
 `Lambda Requirements:`
 - Python handler: `get_item.lambda_handler`
