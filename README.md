@@ -7,7 +7,7 @@ Please read all of these instructions carefully. Following these instructions is
 
 ## INTERVIEW QUESTIONS
   Please complete the metioned scenario under.
-* [Scenario](Scenario/scenario.md)
+* [Scenario](scenario/scenario.md)
 
 
 
